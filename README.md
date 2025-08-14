@@ -6,7 +6,7 @@ The design is fully responsive, optimized for all devices, and easy to customize
 ---
 
 ## 🚀 Live Demo
-[🔗 View Live](https://your-demo-link.com) *(Replace with your deployment link)*
+[🔗 View Live](https://fresh-fruits-react.vercel.app/)
 
 ---
 
