@@ -1,8 +1,45 @@
-# React + Vite
+# 🍓 Fresh Fruits Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually appealing **Fresh Fruits** landing page built with **React.js**, **Tailwind CSS**, and **Framer Motion** for smooth animations.  
+The design is fully responsive, optimized for all devices, and easy to customize.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+[🔗 View Live](https://your-demo-link.com) *(Replace with your deployment link)*
+
+---
+
+## ✨ Features
+- 🍍 **Responsive Design** – Works perfectly on mobile, tablet, and desktop.
+- 🎨 **Modern UI** – Fresh, clean, and colorful interface.
+- 🎬 **Smooth Animations** – Powered by Framer Motion.
+- 🧩 **Reusable Components** – Navbar, Hero, Menus, Banners, Footer, etc.
+- ⚡ **Fast Performance** – Built with Vite and React 18.
+
+---
+
+## 🛠️ Tech Stack
+- **React.js** ⚛️
+- **Tailwind CSS** 🎨
+- **Framer Motion** 🎬
+- **React Icons** 🔗
+- **Vite** ⚡
+
+---
+
+## 📂 Project Structure
+```bash
+fresh-fruits/
+├── src/
+│   ├── components/
+│   │   ├── Navbar/
+│   │   ├── Hero/
+│   │   ├── Menus/
+│   │   ├── Banners/
+│   │   └── Footer/
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── package.json
+└── tailwind.config.js
