@@ -43,3 +43,19 @@ fresh-fruits/
 ├── public/
 ├── package.json
 └── tailwind.config.js
+
+
+---
+
+## 🚀 Getting Started
+
+### 📁 Clone the repository
+
+```bash
+git clone https://github.com/YourUsername/fresh-fruits.git
+cd fresh-fruits
+--
+
+##  Run project
+npm install
+npm run dev
